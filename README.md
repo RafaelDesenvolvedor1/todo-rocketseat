@@ -1,30 +1,20 @@
-# React + TypeScript + Vite
+# Todo - rocketseat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+É com um imenso prazer que venho apresentar o resultado do meu primeiro desafio na trilha de React JS da plataforma Rocketseat. O desafio consistia em:
 
-Currently, two official plugins are available:
+- Desenvolver um Todolist com base nas orientações disponibilizadas pelo os responsáveis do curso.
+- Fazer o mais próximo do possível do layout fornecido pelo os mesmos.
+- Desenvolver o projeto utilizando TypeScript.
+- Adicionar uma nova tarefa
+- Marcar e desmarcar uma tarefa como concluída
+- Remover uma tarefa da listagem
+- Mostrar o progresso de conclusão das tarefas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Relembrar conceitos aprendidos no primeiro módulo do curso.
 
-## Expanding the ESLint configuration
+- Estados
+- Imutabilidade do estado
+- Listas e chaves no ReactJS
+- Propriedades
+- Componentização
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
