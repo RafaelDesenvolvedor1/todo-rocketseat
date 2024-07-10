@@ -23,11 +23,11 @@ Relembrar conceitos aprendidos no primeiro módulo do curso.
 </div>
 
 <div>
-![image](https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/ea5f2fe4-a6ae-4cd2-92ae-a326d61e6bb7)
+  <img src='https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/ea5f2fe4-a6ae-4cd2-92ae-a326d61e6bb7'>
 </div>
 
 <div>
-![image](https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/319f691e-2288-4254-9c17-8835da8b63fd)
+    <img src='https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/319f691e-2288-4254-9c17-8835da8b63fd'>
 </div>
 
 
