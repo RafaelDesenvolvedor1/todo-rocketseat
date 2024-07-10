@@ -19,7 +19,7 @@ Relembrar conceitos aprendidos no primeiro módulo do curso.
 - Componentização
 
 <div>
-![image](https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/1c9c23ee-cb61-4311-ba87-b66974e5a807)
+<img src='https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/1c9c23ee-cb61-4311-ba87-b66974e5a807'>
 </div>
 
 <div>
