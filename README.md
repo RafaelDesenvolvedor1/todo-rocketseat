@@ -18,3 +18,16 @@ Relembrar conceitos aprendidos no primeiro módulo do curso.
 - Propriedades
 - Componentização
 
+<div>
+![image](https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/1c9c23ee-cb61-4311-ba87-b66974e5a807)
+</div>
+
+<div>
+![image](https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/ea5f2fe4-a6ae-4cd2-92ae-a326d61e6bb7)
+</div>
+
+<div>
+![image](https://github.com/RafaelDesenvolvedor1/todo-rocketseat/assets/168784200/319f691e-2288-4254-9c17-8835da8b63fd)
+</div>
+
+
