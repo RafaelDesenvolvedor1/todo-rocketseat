@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import styles from './List.module.css'
 import { Task } from "./Task";
 import { ListContext } from "../contexts/listContext";

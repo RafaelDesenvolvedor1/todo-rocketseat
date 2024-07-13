@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import  { useContext, useState } from "react";
 import styles from './Task.module.css'
 import { Trash } from "@phosphor-icons/react";
 import { TaskType } from "./List";

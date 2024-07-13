@@ -1,4 +1,3 @@
-import React from "react";
 import todoLogo from "../assets/Logo.svg"
 import styles from  './Header.module.css'
 
